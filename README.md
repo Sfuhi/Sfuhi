@@ -7,7 +7,7 @@
 - Story of my life:
 - "Dear programer:
 - When I wrote this code, only god nad I knew how it worked.
-- Now, only god knows it!
+- Now, only god knows it!"
   
 
 <!---
